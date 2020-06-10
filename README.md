@@ -1,5 +1,5 @@
-Programming Assignment 2 : Lexical Scoping
-For the Coursera course [R Programming](https://www.coursera.org/learn/r-programming)
+# Programming Assignment 2 : Lexical Scoping
+### For the Coursera course [R Programming](https://www.coursera.org/learn/r-programming)
 
 
 An example is developed for the application of the code 
